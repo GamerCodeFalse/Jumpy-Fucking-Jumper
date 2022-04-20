@@ -1,0 +1,10 @@
+.wow {
+  width: 100px;
+}
+body{
+  background-image:url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/01073865290819.5d61d475f0072.jpg");
+  background-size: cover;
+}
+h1{
+  font-family: 'Anek Gujarati', sans-serif;
+}
